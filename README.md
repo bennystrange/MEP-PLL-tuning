@@ -45,7 +45,7 @@ export BLINKA_FT232H=1
 Navigate to your working directory for this program  
 Upload the tuner.py file  
 ```
-wget https://github.mit.edu/ben10/MEP-PLL-tuning/raw/main/tuner.py
+wget https://github.com/bennystrange/MEP-PLL-tuning/raw/main/tuner.py
 ```
 
 ### Run the program
